@@ -7,8 +7,4 @@
     <img src='./imagenes/principal.jpg' </img>
     <img src='./imagenes/menu.jpg' </img>
 </p>
-<br/>
-<p align='left'>
-    <img src='./imagenes/menu.jpg' </img>
-</p>
-<br/>
+
