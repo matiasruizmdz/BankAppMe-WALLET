@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "bankApp",
+    "slug": "app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "sdkVersion": "38.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f7b700"
+    },   
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.bankappme.bankapp",
+      "versionCode": 1
+    }
+  }
+}
